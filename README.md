@@ -1,11 +1,11 @@
-About r-mlr3tuningspaces
-========================
+About r-mlr3tuningspaces-feedstock
+==================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-mlr3tuningspaces-feedstock/blob/main/LICENSE.txt)
 
 Home: https://mlr3tuningspaces.mlr-org.com, https://github.com/mlr-org/mlr3tuningspaces
 
 Package license: LGPL-3.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-mlr3tuningspaces-feedstock/blob/main/LICENSE.txt)
 
 Summary: Collection of search spaces for hyperparameter tuning. Includes various search spaces that can be directly applied on an `mlr3` learner. Additionally, meta information about the search space can be queried.
 
