@@ -1,4 +1,4 @@
-{% set version = "0.5.2" %}
+{% set version = "0.6.0" %}
 {% set posix = 'm2-' if win else '' %}
 
 package:
@@ -9,7 +9,7 @@ source:
   url:
     - {{ cran_mirror }}/src/contrib/mlr3tuningspaces_{{ version }}.tar.gz
     - {{ cran_mirror }}/src/contrib/Archive/mlr3tuningspaces/mlr3tuningspaces_{{ version }}.tar.gz
-  sha256: ac458529118bad77d72263d361e1c60b9c8542b36c9e0ebe6e194150f47b2b00
+  sha256: 635f76b17b5a7708cbd087f93e306f698a7bfc3a450b618a279d558fa579c1c1
 
 build:
   number: 0
